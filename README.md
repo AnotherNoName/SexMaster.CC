@@ -1,7 +1,7 @@
 # SexMaster.CC All Versions
 :scream:
 
-Based phobos skid made by Chachoox and RawnDawn, with silent ca and other things :swagbaipip: (thanks to IJese for the src y deje de joder ya)
+Based phobos skid made by Chachoox and RawnDawn, with silent ca and other things :swagbaipip:
 
 ## Join in ChachooxGang
 
